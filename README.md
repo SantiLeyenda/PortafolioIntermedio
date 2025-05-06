@@ -10,11 +10,11 @@ Preferencias laborales:
 
 Proyectos: 
 
-- Regresion lineal venta de carros:
-Este proyecto se trato sobre crear una regresion lineal para
-predecir la venta de carros basado en la historia o datos.
-Aunque no se uso inteligencia artificial, se aprendieron las bases
-como algunos conceptos de estadistica por lo cual me gusto mucho.
+- Banco de alimentos:
+Este proyecto se trata sobre crear una aplicación para el banco de alimentos.
+El punto de la aplicacion es poder ayudarlos en cualquier de los problemas que tuvieran.
+En este caso hicimos un aplicacion web en el cual ayudabamos a la gente sin empleo
+intentar conseguir empleo. Esto me gusto mucho ya que es un proyecto qeu ayudamos a la sociedad directamente. 
 
 - Oprimizacion usando algoritmos avanzados:
 
